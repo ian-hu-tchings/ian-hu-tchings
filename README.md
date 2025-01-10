@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## This account stores my work for my GEOG 258  class
 <!--
 **ian-hu-tchings/ian-hu-tchings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
